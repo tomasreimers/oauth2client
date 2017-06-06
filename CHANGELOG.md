@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## v4.2.0
+## v4.1.1
 
 **Note**: oauth2client is deprecated. No more features will be added to the
 libraries and the core team is turning down support. We recommend you use
